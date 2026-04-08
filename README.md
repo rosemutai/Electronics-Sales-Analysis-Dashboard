@@ -1,5 +1,7 @@
 # Electronics-Sales-Analysis-Dashboard 
 
+![Electronics salesDashboard](https://github.com/rosemutai/Electronics-Sales-Analysis-Dashboard/blob/main/Screenshot%202026-04-08%20123021.png?raw=true)
+
 ## Overview
 This project presents a Power Bi Dashboard analyzing sales performance for an electronic business.
 The goal was to uncover insights for product performance, profitability and customer trends.
